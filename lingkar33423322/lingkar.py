@@ -1,6 +1,6 @@
 import math
 
-class Bunder:
+class Lingkaran:
     def __init__(self, jari_jari):
         self.jari_jari = jari_jari
 
