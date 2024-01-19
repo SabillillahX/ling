@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 from pathlib import Path
 
-VERSION = '5.0'
+VERSION = '6.0'
 DESCRIPTION = 'Menghitung luas lingkaran'
 
 this_directory = Path(__file__).parent

@@ -1,1 +1,1 @@
-from lingkar33423322.lingkar import Lingkaran
+from lingkar33423322.lingkar import Bunder
